@@ -20,7 +20,7 @@ As can be seen from the chart, excessive PAC spending is highly correlated with 
 
 # Future Research:
 
-The next step in the study would add demographic data for each district.
+Future research could extend the study by adding demographic data for each district. This would allow further analysis by weighting the results as per the demographic data, i.e., population, population density, income, etc.
 
 # Summary statistics for the '>45% as % of total' column are as follows:
 
