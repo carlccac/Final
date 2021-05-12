@@ -18,6 +18,10 @@ As can be seen from the chart, excessive PAC spending is highly correlated with 
 
 ![alt text](https://github.com/carlccac/Final/blob/main/final_scatter.svg)
 
+# Future Research:
+
+The next step in the study would add demographic data for each district.
+
 # Summary statistics for the '>45% as % of total' column are as follows:
 
 count     50.000000
