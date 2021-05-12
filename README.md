@@ -22,6 +22,12 @@ As can be seen from the chart, excessive PAC spending is highly correlated with 
 
 Future research could extend the study by adding demographic data for each district. This would allow further analysis by weighting the results as per the demographic data, i.e., population, population density, income, etc.
 
+# Data Wrangling, Cleaning and Analysis:
+
+https://github.com/carlccac/Final/blob/main/data_wrangle_clean.ipynb
+
+https://github.com/carlccac/Final/blob/main/analysis_final.ipynb
+
 # Summary statistics for the '>45% as % of total' column are as follows:
 
 count     50.000000
